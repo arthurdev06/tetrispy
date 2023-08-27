@@ -1,2 +1,2 @@
-# tetrispy
+# TETRISPY
 Tetris created with Python
